@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Übersetzung Relationale Struktur in grafische Datenbank
+
+1. Tabelle Datenstruktur des Datensatzes
+2. Erstellung Node- und Relationship-Tabelle
+3. Überführung in Neo4j Datenbank
+
+Die Seite soll zur Dokumentation der unterschiedlichen Aufgaben im Zusammenhang mit der Erstellung eines Überstzungsalgorithmus dienen.
 
 You can use the [editor on GitHub](https://github.com/karlgottfried/doku_neo4j/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
