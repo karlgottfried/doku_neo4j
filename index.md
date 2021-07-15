@@ -6,7 +6,8 @@
 
 Die Seite soll zur Dokumentation der unterschiedlichen Aufgaben im Zusammenhang mit der Erstellung eines Überstzungsalgorithmus dienen.
 
-![graph example)](https://user-images.githubusercontent.com/81625595/125797449-91b05e18-089d-41ee-8e57-d3af39a113bb.png)
+
+<img src="https://user-images.githubusercontent.com/81625595/125797449-91b05e18-089d-41ee-8e57-d3af39a113bb.png" alt="graph example" width="200"/>
 
 
 You can use the [editor on GitHub](https://github.com/karlgottfried/doku_neo4j/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
